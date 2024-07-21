@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "158742028667",
+    "project_id": "mini-game-c4069",
+    "storage_bucket": "mini-game-c4069.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:158742028667:android:51516218747ff70dc31dde",
+        "android_client_info": {
+          "package_name": "com.tajinder12.pushnotifications"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSSkaAWP7pU1R6Kyv4qiXhEwxHPycCgAQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

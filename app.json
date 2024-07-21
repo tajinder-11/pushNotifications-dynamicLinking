@@ -1,0 +1,52 @@
+{
+  "expo": {
+    "name": "MiniGame",
+    "slug": "pushdynamiclinktest",
+    "version": "1.0.0",
+    "orientation": "default",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "googleServicesFile": "./google-services.json",
+      "package": "com.tajinder12.pushnotifications"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "plugins": [
+      "expo-font"
+    ],
+    "notification": {
+      "icon": "./assets/adaptive-icon.png",
+      "color": "#ffffff",
+      "iosDisplayInForeground": true,
+      "androidMode": "default",
+      "androidCollapsedTitle": "New Notification"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "31a80cba-3225-4682-a571-3ababa513dad"
+      }
+    },
+    "owner": "tajinder12",
+    "runtimeVersion":"1.0.0",
+    "updates": {
+      "url": "https://u.expo.dev/31a80cba-3225-4682-a571-3ababa513dad"
+    }
+  }
+}
